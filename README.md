@@ -97,5 +97,6 @@ int main() {
 
 ## OUTPUT
 <img width="1431" height="847" alt="image" src="https://github.com/user-attachments/assets/897530f2-aa22-4fdc-962a-aaff356d560a" />
+
 ## RESULT
 The Hill Cipher program encrypts the plaintext and decrypts the ciphertext using the key matrix and inverse key matrix.
